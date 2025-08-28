@@ -5,3 +5,5 @@ Here you will find a collection of projects using SQL and Python that demonstrat
 #
 ### Project 1: [STC Jawwy](https://github.com/Malik-Almalki/STC-Jawwy)
 #
+### Project 2: [Online Stor](https://github.com/Malik-Almalki/Online-Stor-Sales/tree/main)
+#
