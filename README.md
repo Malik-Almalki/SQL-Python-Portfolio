@@ -7,3 +7,5 @@ Here you will find a collection of projects using SQL and Python that demonstrat
 #
 ### Project 2: [Online Stor](https://github.com/Malik-Almalki/Online-Stor-Sales/tree/main)
 #
+### Project 3: [Satr Projects sql](https://github.com/Malik-Almalki/satr-project-sql)
+#
