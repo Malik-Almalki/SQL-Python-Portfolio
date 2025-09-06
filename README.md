@@ -9,3 +9,5 @@ Here you will find a collection of projects using SQL and Python that demonstrat
 #
 ### Project 3: [Satr Project sql 101](https://github.com/Malik-Almalki/satr-project-sql)
 #
+### Project 4: [Satr Project sql 102](https://github.com/Malik-Almalki/Satr-Project-sql-102)
+#
